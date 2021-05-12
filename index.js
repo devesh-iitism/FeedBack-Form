@@ -28,7 +28,3 @@ require('./routes/authRoutes')(app);
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT);
-
-
-// 1057637748416-1urg88g3219idjb6hvrm50vofh13e4fp.apps.googleusercontent.com
-// _eu1bXQpgYsJP_BLdBgYh1ON
